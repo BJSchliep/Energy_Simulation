@@ -1,0 +1,15 @@
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\bin\Debug\net7.0\Energy_Simulation.exe
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\bin\Debug\net7.0\Energy_Simulation.deps.json
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\bin\Debug\net7.0\Energy_Simulation.runtimeconfig.json
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\bin\Debug\net7.0\Energy_Simulation.dll
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\bin\Debug\net7.0\Energy_Simulation.pdb
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\obj\Debug\net7.0\Energy_Simulation.csproj.AssemblyReference.cache
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\obj\Debug\net7.0\Energy_Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\obj\Debug\net7.0\Energy_Simulation.AssemblyInfoInputs.cache
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\obj\Debug\net7.0\Energy_Simulation.AssemblyInfo.cs
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\obj\Debug\net7.0\Energy_Simulation.csproj.CoreCompileInputs.cache
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\obj\Debug\net7.0\Energy_Simulation.dll
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\obj\Debug\net7.0\refint\Energy_Simulation.dll
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\obj\Debug\net7.0\Energy_Simulation.pdb
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\obj\Debug\net7.0\Energy_Simulation.genruntimeconfig.cache
+C:\Users\schli\OneDrive\Desktop\Energy Simulation\Energy_Simulation\obj\Debug\net7.0\ref\Energy_Simulation.dll
